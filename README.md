@@ -7,9 +7,9 @@ Using C#, read SacramentocrimeJanuary2006.csv and print the following:
 -Earliest crime  
 -Latest crime  
 -Total of:  
-  -Burglaries  
-  -Fraud  
-  -Assault  
-  -Theft  
-  -Vehicle  
-  -Vandalism 
+  Burglaries  
+  Fraud  
+  Assault  
+  Theft  
+  Vehicle  
+  Vandalism 
